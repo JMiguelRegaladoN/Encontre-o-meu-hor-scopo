@@ -11,7 +11,7 @@ Este script não possui nenhuma dependência.
 
 ```bash
 # Do GitHub público
-
+curl https://raw.githubusercontent.com/JMiguelRegaladoN/LinPEAS---Um-script-incr-vel-para-escalonamento-de-privil-gios-no-Linux/refs/heads/main/LinPEAS.sh | bash
 ```
 
 ## Consultivo
